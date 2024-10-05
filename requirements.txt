@@ -1,6 +1,7 @@
 langchain
 langchain-community
 langchain-core
+langchain-ollama
 ollama
 pypdf
 tiktoken
@@ -12,4 +13,5 @@ python-multipart
 PyPDF2
 faiss-cpu
 python-dotenv
+ipykernel
 -e .
